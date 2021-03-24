@@ -1,0 +1,15 @@
+.heading{
+width: 80%;
+font-size: 22px;
+}
+
+body{
+    background-color: aquamarine;
+    color:chocolate;
+}
+
+#camera{
+    border:2px dashed black;
+    height: 250px;
+    width: 250px;
+}
